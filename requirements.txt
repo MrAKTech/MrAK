@@ -36,7 +36,7 @@ requests
  gTTS==2.3.1  
  speedtest==0.0.1  
  humanize==4.6.0  
- Pillow==9.4.0  
+ Pillow 
  psutil==5.9.4  
  NumPy  
  wheel  
@@ -57,6 +57,3 @@ pyromod
 colorama
 openai==0.27.0
 cinemagoer
-
-
-
